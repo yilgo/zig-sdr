@@ -1,0 +1,8 @@
+.zig-cache
+zig-out
+zig-pkg
+*.log
+.vscode
+.ide
+!.zed/tasks.json
+.zed/*
